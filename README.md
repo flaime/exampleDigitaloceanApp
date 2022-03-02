@@ -1,4 +1,4 @@
-# exampleDigitalOcan
+# Example Digitalocean APP
 Simple project that can be run on Digitalocean app platform
 
 Kotlin Spring Boot application with a database (postgres), running java 17 with gradle 
